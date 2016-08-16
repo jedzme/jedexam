@@ -12,8 +12,8 @@ Jed Exam
 	C. Database properties
 	D. Hibernate Configuration
 
-#Home Page URL
-  http://localhost:8080/jedexam/
+###Home Page URL
+  http://<hostname>:<port>/jedexam/
 
 ###The application has been tested using the following environment details:
   1 Google Chrome web browser Version 52.0.2743.116 m (64-bit)
