@@ -12,16 +12,19 @@ Jed Exam
 	C. Database properties
 	D. Hibernate Configuration
 
+#Home Page URL
+  http://localhost:8080/jedexam/
+
+###The application has been tested using the following environment details:
+  1 Google Chrome web browser Version 52.0.2743.116 m (64-bit)
+  2. Postgresql 9.5
+  3. Apache Tomcat 7
+
 ###The application is built using the following technologies:
   * [Spring Web MVC](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/mvc.html)
   * [Spring Data JPA](http://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.repositories)
   * [Hibernate](http://hibernate.org/orm/)
   * [Jersey Client API](https://jersey.java.net/documentation/latest/client.html)
   * [Simple XML](http://simple.sourceforge.net/)
-
-###The application has been tested using the following environment details:
-  1 Google Chrome web browser Version 52.0.2743.116 m (64-bit)
-  2. Postgresql 9.5
-  3. Apache Tomcat 7
 
 ###The application was compiled using JDK 1.7.
