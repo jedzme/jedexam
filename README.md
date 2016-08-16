@@ -7,10 +7,10 @@ Jed Exam
 
 ###Pre-conditions before running the application:
   1. Configure the following in the jedexam\src\main\webapp\config.properties file
-    	A. Highrise User credentials; Fill-up using Basic Authentication, a combination of the API Authentication Token as the username and "X" as the password. Sample Basic Authentication value: Basic XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	B. Highrise web service Hostname
-	C. Database properties
-	D. Hibernate Configuration
+	1. Highrise User credentials; Fill-up using Basic Authentication, a combination of the API Authentication Token as the username and "X" as the password. Sample Basic Authentication value: Basic XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+	2. Highrise web service Hostname
+	3. Database properties
+	4. Hibernate Configuration
 
 ###To run this file locally
 1. Build 
@@ -21,10 +21,10 @@ Jed Exam
 2. Deploy _\jedexam\target\_**jedexam.war** in in Tomcat
 3. Access ```http://localhost:8080/jedexam```
 
-###The application has been tested using the following environment details:
-  1 Google Chrome web browser Version 52.0.2743.116 m (64-bit)
-  2. Postgresql 9.5
-  3. Apache Tomcat 7
+###The application has been tested using the following environment details
+1. Google Chrome web browser Version 52.0.2743.116 m (64-bit)
+2. Postgresql 9.5
+3. Apache Tomcat 7
 
 ###The application is built using the following technologies:
   * [Spring Web MVC](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/mvc.html)
