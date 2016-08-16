@@ -12,8 +12,14 @@ Jed Exam
 	C. Database properties
 	D. Hibernate Configuration
 
-###Home Page URL
-  http://<hostname>:<port>/jedexam/
+###To run this file locally
+  1. Build
+```shell
+$ git clone https://github.com/jedzme/jedexam
+$ mvn clean install
+```
+  2. Deploy _\jedexam\target\_**jedexam.war** in in Tomcat
+  3. Access ```http://localhost:8080/jedexam```
 
 ###The application has been tested using the following environment details:
   1 Google Chrome web browser Version 52.0.2743.116 m (64-bit)
