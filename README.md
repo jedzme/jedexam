@@ -6,7 +6,7 @@ Jed Exam
   Note: The Contact's FullName and Phone Number are the only details stored in the database.
 
 ###Pre-conditions before running the application:
-  1. Configure the following in the jedexam\src\main\webapp\config.properties file
+  1. Configure the following in the _jedexam\src\main\webapp\_**config.properties** file
 	1. Highrise User credentials; Fill-up using Basic Authentication, a combination of the API Authentication Token as the username and "X" as the password. Sample Basic Authentication value: Basic XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	2. Highrise web service Hostname
 	3. Database properties
