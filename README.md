@@ -13,11 +13,7 @@ Jed Exam
 	D. Hibernate Configuration
 
 ###To run this file locally
-1. Build
-    ```shell
-      $ git clone https://github.com/jedzme/jedexam
-      $ mvn clean install
-    ```
+1. Build ```shell $ git clone https://github.com/jedzme/jedexam $ mvn clean install```
 2. Deploy _\jedexam\target\_**jedexam.war** in in Tomcat
 3. Access ```http://localhost:8080/jedexam```
 
