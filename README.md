@@ -7,10 +7,10 @@ Jed Exam
 
 ###Pre-conditions before running the application:
   1. Configure the following in the _jedexam\src\main\webapp\_**config.properties** file
-	1. Highrise User credentials; Fill-up using Basic Authentication, a combination of the API Authentication Token as the username and "X" as the password. Sample Basic Authentication value: Basic XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	2. Highrise web service Hostname
-	3. Database properties
-	4. Hibernate Configuration
+    1. Highrise User credentials; Fill-up using Basic Authentication, a combination of the API Authentication Token as the username and "X" as the password. ``` Sample Basic Authentication value: Basic XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX ```
+    2. Highrise web service Hostname
+    3. Database properties
+    4. Hibernate Configuration
 
 ###To run this file locally
 1. Build 
