@@ -1,5 +1,5 @@
 
-The application does the following:
+The application does the following: 
 1. Searches (non-case sensitively) a specific Tag from a HighRise user. If found then those Tag/s with its associated Contacts will then be stored in the database.
 2. Views the stored Tags-Contacts which were retrieved from HighRise server. 
 Note: The Contact's FullName and Phone Number are the only details stored in the database.
