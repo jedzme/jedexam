@@ -1,4 +1,4 @@
-Jed Exam
+Jed's HighRise Exam
 ===============================
 ###The application does the following: 
   1. Searches (non-case sensitively) a specific Tag from a HighRise user. If found then those Tag/s with its associated Contacts will then be stored in the database.
