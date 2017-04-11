@@ -33,4 +33,4 @@ Jed's HighRise Exam
   * [Jersey Client API](https://jersey.java.net/documentation/latest/client.html)
   * [Simple XML](http://simple.sourceforge.net/)
 
-###The application was compiled using JDK 1.7.
+###The application was compiled using JDK 1.8.
